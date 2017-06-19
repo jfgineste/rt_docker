@@ -1,0 +1,7 @@
+Must be used by:
+
+* Nuclus V1.5.0 or above
+* IOnext V4.6.0 or above
+* Aspic V16.6.0 or above
+
+This script is compatible with all versions of frameworks
